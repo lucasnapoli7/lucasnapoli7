@@ -4,7 +4,7 @@
 
  - ⛏ Actualmente estoy trabajando en Practia Global en .NET 5 y Angular 10.
 - 👨‍💻 Siempre aprendiendo nuevas tecnologías y temas relacionados al desarrollo.
-- ☁ Comenzando en el mundo de la nube, implementaciones y testeo.
+- ☁ Comenzando en el mundo de la nube, implementaciones y testing.
 - 👨‍🏫 Me gusta ayudar a personas y compartir mi poca experiencia en el mundo del desarrollo.
 
 ## Tecnologías, lenguajes y herramientas:
