@@ -27,3 +27,4 @@
 
  - [LinkedIn](https://www.linkedin.com/in/lucasnapoli7/)
  - Email: lucasalannapoli@gmail.com
+ - Perfil de [Platzi](https://platzi.com/p/lucas-napoli/) (certificaciones)
